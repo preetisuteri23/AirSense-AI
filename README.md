@@ -6,6 +6,14 @@ AirSense AI is an AI-driven environmental intelligence platform developed for th
 
 ---
 
+# 🚀 Live Demo
+
+🌐 **Live Website:** https://airsense-ai.streamlit.app
+
+💻 **GitHub Repository:** https://github.com/preetisuteri23/AirSense-AI
+
+---
+
 # 📌 Problem Statement
 
 Urban air pollution is influenced by multiple environmental and anthropogenic factors such as industrial activities, transportation networks, construction sites, land use, and meteorological conditions. Environmental datasets are often scattered across different sources, making pollution analysis difficult.
