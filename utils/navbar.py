@@ -45,7 +45,7 @@ def navbar():
 
             with c1:
                 st.page_link(
-                    "app.py",
+                    "Home.py",
                     label="🏠 Home"
                 )
 
