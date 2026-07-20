@@ -34,6 +34,7 @@ with open("styles/style.css") as css:
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 MODEL_DIR = BASE_DIR / "models"
+DATA_DIR = BASE_DIR / "DATA" / "CLEANED"
 
 # ==========================================================
 # LOAD MODEL OUTPUTS
@@ -72,7 +73,7 @@ def load_data():
 @st.cache_data
 def load_ward_data():
 
-    ward_file = MODEL_DIR / "Frontend_Ward_Attribution.json"
+    ward_file = DATA_DIR / "Frontend_Ward_Attribution.json"
 
     with open(ward_file, "r") as f:
         ward_data = json.load(f)
