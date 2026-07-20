@@ -32,6 +32,8 @@ road = gpd.read_file(DATA_DIR / "Delhi_Road_Network_cleaned.geojson")
 
 landuse = gpd.read_file(DATA_DIR / "Delhi_Land_Use_cleaned.geojson")
 
+ward = gpd.read_file(DATA_DIR / "Delhi_Wards.geojson")
+
 st.title("🗺 Pollution Source Identification Map")
 
 st.write(
@@ -308,6 +310,54 @@ folium.GeoJson(
 ).add_to(landuse_layer)
 
 landuse_layer.add_to(m)
+
+# =====================================================
+# WARD BOUNDARIES
+# =====================================================
+
+ward = ward[~ward.geometry.is_empty].copy()
+
+# Fill missing values safely
+if "Ward_Name" in ward.columns:
+    ward["Ward_Name"] = ward["Ward_Name"].fillna("Unknown Ward")
+
+if "Ward_No" in ward.columns:
+    ward["Ward_No"] = ward["Ward_No"].fillna("-")
+
+ward_layer = folium.FeatureGroup(
+    name="🗺 Ward Boundaries",
+    show=False
+)
+
+folium.GeoJson(
+    ward,
+    style_function=lambda feature: {
+        "fillColor": "#FFFFFF",
+        "color": "#FFFFFF",
+        "weight": 1,
+        "fillOpacity": 0
+    },
+    highlight_function=lambda feature: {
+        "color": "#00FFFF",
+        "weight": 3,
+        "fillOpacity": 0.15
+    },
+    tooltip=folium.GeoJsonTooltip(
+        fields=["Ward_Name"],
+        aliases=["Ward"],
+        sticky=True
+    ),
+    popup=folium.GeoJsonPopup(
+        fields=["Ward_Name", "Ward_No"],
+        aliases=[
+            "Ward Name",
+            "Ward Number"
+        ],
+        labels=True
+    )
+).add_to(ward_layer)
+
+ward_layer.add_to(m)
 
 folium.LayerControl(collapsed=False).add_to(m)
 
