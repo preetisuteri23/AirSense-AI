@@ -174,11 +174,13 @@ geospatial datasets.
 """)
 
     with st.container(border=True):
-        st.markdown("""
-### 📊 Plotly
+     st.markdown("""
+### 🧠 SHAP Explainability
 
-Interactive visualizations for environmental
-analytics and dashboard reporting.
+Enhances AI transparency by explaining the
+contribution of each feature to the predicted AQI,
+making the XGBoost model interpretable and
+trustworthy for smart city decision-making.
 """)
 
     with st.container(border=True):
@@ -233,13 +235,43 @@ st.divider()
 st.header("🗂 Datasets Used")
 
 st.markdown("""
-AirSense AI integrates multiple geospatial datasets to provide a comprehensive
-understanding of pollution sources and environmental conditions across Delhi.
+AirSense AI integrates multiple geospatial and environmental datasets to
+provide a comprehensive understanding of pollution sources, air quality,
+and environmental conditions across Delhi.
 """)
 
 col1, col2 = st.columns(2)
 
 with col1:
+
+    with st.container(border=True):
+        st.markdown("""
+### 📊 Historical AQI (CPCB)
+
+Historical Air Quality Index data collected from
+the Central Pollution Control Board (CPCB) used
+for model training and AQI forecasting.
+""")
+
+    with st.container(border=True):
+        st.markdown("""
+### 🌦 Weather (OpenWeather API)
+
+Meteorological parameters including temperature,
+humidity, wind speed, and atmospheric conditions
+used for environmental analysis.
+""")
+
+    with st.container(border=True):
+        st.markdown("""
+### 🛰 Satellite Data (MODIS / Sentinel-5P)
+
+Satellite-derived Aerosol Optical Depth (AOD) and
+atmospheric observations used to monitor regional
+air pollution and environmental conditions.
+""")
+
+with col2:
 
     with st.container(border=True):
         st.markdown("""
@@ -264,24 +296,6 @@ to stationary air pollution and environmental emissions.
 
 Identifies construction zones and waste locations
 that can generate localized dust and particulate pollution.
-""")
-
-with col2:
-
-    with st.container(border=True):
-        st.markdown("""
-### 🏥 Sensitive Locations
-
-Includes hospitals and schools to identify
-environmentally sensitive regions requiring protection.
-""")
-
-    with st.container(border=True):
-        st.markdown("""
-### 🌳 Land Type
-
-Represents different land-use categories such as
-residential, commercial, institutional, water, and green areas.
 """)
 
 st.divider()

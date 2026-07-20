@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import json
 from pathlib import Path
 from utils.navbar import navbar
-
+import geopandas as gpd
 
 # ==========================================================
 # PAGE CONFIGURATION
@@ -69,8 +69,29 @@ def load_data():
         summary
     )
 
+@st.cache_data
+def load_ward_data():
+
+    ward_file = MODEL_DIR / "Frontend_Ward_Attribution.json"
+
+    with open(ward_file, "r") as f:
+        ward_data = json.load(f)
+
+    df = pd.DataFrame(ward_data)
+
+    # Clean ward names
+    df["Ward_Name"] = (
+        df["Ward_Name"]
+        .fillna("Unknown")
+        .astype(str)
+        .str.strip()
+    )
+
+    return df
 
 performance, feature_importance, forecast, summary = load_data()
+ward_df = load_ward_data()
+
 # ==========================================================
 # HERO SECTION
 # ==========================================================
@@ -94,7 +115,130 @@ for sustainable smart cities.
 st.markdown("<br>", unsafe_allow_html=True)
 
 
+# ==========================================================
+# WARD ENVIRONMENTAL INTELLIGENCE
+# ==========================================================
 
+st.markdown("## 🏙️ Ward Environmental Intelligence")
+
+st.markdown("""
+Explore pollution characteristics for individual wards using integrated
+traffic, construction, industrial, and sensitive-location datasets.
+This demonstrates AirSense AI's multi-source environmental intelligence.
+""")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    city = st.selectbox(
+        "🏙️ Select City",
+        ["Delhi"]
+    )
+
+with col2:
+    ward_list = sorted(
+        ward_df["Ward_Name"].dropna().astype(str).unique(),
+        key=lambda x: x.lower()
+    )
+
+    ward = st.selectbox(
+        "📍 Select Ward",
+        ward_list
+    )
+
+selected = ward_df.loc[
+    ward_df["Ward_Name"] == ward
+].iloc[0]
+
+st.markdown("### 🌍 Ward Environmental Profile")
+
+c1, c2, c3, c4 = st.columns(4)
+
+with c1:
+    st.metric(
+        "Dominant Source",
+        selected["Dominant_Source"]
+    )
+
+with c2:
+    st.metric(
+        "Confidence",
+        selected["Confidence"]
+    )
+
+with c3:
+    st.metric(
+        "Traffic %",
+        f"{float(selected['Traffic_%']):.1f}%"
+    )
+
+with c4:
+    st.metric(
+        "Construction %",
+        f"{float(selected['Construction_%']):.1f}%"
+    )
+
+st.progress(
+    min(max(float(selected["Traffic_%"]) / 100, 0), 1)
+)
+
+if selected["Dominant_Source"] == "Traffic Emission":
+
+    st.success("""
+### 🚗 AI Recommendation
+
+Traffic emissions are the dominant pollution source in this ward.
+
+**Recommended Actions**
+- Improve public transport
+- Encourage electric vehicles
+- Optimize traffic signals
+- Restrict heavy vehicles during peak hours
+""")
+
+elif selected["Dominant_Source"] == "Construction Activity":
+
+    st.warning("""
+### 🏗️ AI Recommendation
+
+Construction activity is the dominant pollution source.
+
+**Recommended Actions**
+- Regular water sprinkling
+- Dust barriers around construction sites
+- Covered transport of materials
+- Continuous dust monitoring
+""")
+
+elif selected["Dominant_Source"] == "Industrial Pollution":
+
+    st.error("""
+### 🏭 AI Recommendation
+
+Industrial emissions are the dominant pollution source.
+
+**Recommended Actions**
+- Continuous emission monitoring
+- Cleaner fuel adoption
+- Stack emission control
+- Strict compliance inspections
+""")
+
+else:
+
+    st.info("""
+### 🌿 AI Recommendation
+
+No single pollution source dominates this ward.
+
+**Recommended Actions**
+- Continue environmental monitoring
+- Increase green infrastructure
+- Promote sustainable mobility
+- Maintain routine inspections
+""")
+
+st.divider()
 
 # ==========================================================
 # MODEL OVERVIEW
