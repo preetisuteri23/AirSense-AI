@@ -1,0 +1,1240 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-12T08:52:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3682209",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Ware Housing Scheme Block 2",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1354011,
+              28.640468
+            ],
+            [
+              77.1378312,
+              28.6386225
+            ],
+            [
+              77.1410713,
+              28.6423042
+            ],
+            [
+              77.1418373,
+              28.6436419
+            ],
+            [
+              77.1398911,
+              28.645675
+            ],
+            [
+              77.138947,
+              28.6449124
+            ],
+            [
+              77.1354011,
+              28.640468
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3682209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3682210",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Ware Housing Scheme Block 1",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1368532,
+              28.6363234
+            ],
+            [
+              77.1341463,
+              28.6384336
+            ],
+            [
+              77.1335884,
+              28.637944
+            ],
+            [
+              77.1330198,
+              28.6375108
+            ],
+            [
+              77.1326228,
+              28.6372189
+            ],
+            [
+              77.1321078,
+              28.6369082
+            ],
+            [
+              77.1315853,
+              28.6367001
+            ],
+            [
+              77.1308954,
+              28.636475
+            ],
+            [
+              77.1310778,
+              28.6360419
+            ],
+            [
+              77.130477,
+              28.6358159
+            ],
+            [
+              77.1311562,
+              28.6340446
+            ],
+            [
+              77.1317001,
+              28.6331981
+            ],
+            [
+              77.1323578,
+              28.6316815
+            ],
+            [
+              77.1342997,
+              28.6339128
+            ],
+            [
+              77.134672,
+              28.6336971
+            ],
+            [
+              77.1368532,
+              28.6363234
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3682210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3682213",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Kirti Nagar Indl Area",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1479699,
+              28.6547796
+            ],
+            [
+              77.144408,
+              28.6501474
+            ],
+            [
+              77.1426238,
+              28.6479263
+            ],
+            [
+              77.1433721,
+              28.6464276
+            ],
+            [
+              77.1441612,
+              28.6459669
+            ],
+            [
+              77.1499803,
+              28.6530063
+            ],
+            [
+              77.1479699,
+              28.6547796
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3682213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3682215",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Ware Housing Scheme Furniture Block",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.142311,
+              28.6474769
+            ],
+            [
+              77.1420289,
+              28.6472288
+            ],
+            [
+              77.1400628,
+              28.6457974
+            ],
+            [
+              77.1409426,
+              28.6448653
+            ],
+            [
+              77.1422622,
+              28.6436036
+            ],
+            [
+              77.1438889,
+              28.645628
+            ],
+            [
+              77.1441612,
+              28.6459669
+            ],
+            [
+              77.1433721,
+              28.6464276
+            ],
+            [
+              77.1426238,
+              28.6479263
+            ],
+            [
+              77.1423555,
+              28.6475214
+            ],
+            [
+              77.142311,
+              28.6474769
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3682215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3691012",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Naraina Indl Area - II",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.14849,
+              28.6457157
+            ],
+            [
+              77.1463912,
+              28.6470019
+            ],
+            [
+              77.1435497,
+              28.6428597
+            ],
+            [
+              77.1453092,
+              28.6417298
+            ],
+            [
+              77.14849,
+              28.6457157
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3691012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3691013",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Mayapuri Industrial Area 1",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.120688,
+              28.6259903
+            ],
+            [
+              77.1245675,
+              28.6233574
+            ],
+            [
+              77.1247642,
+              28.6232239
+            ],
+            [
+              77.1285333,
+              28.6275739
+            ],
+            [
+              77.1319583,
+              28.6315532
+            ],
+            [
+              77.1310337,
+              28.6336606
+            ],
+            [
+              77.1307938,
+              28.6340974
+            ],
+            [
+              77.1289629,
+              28.6351854
+            ],
+            [
+              77.1287276,
+              28.6353565
+            ],
+            [
+              77.128498,
+              28.6350767
+            ],
+            [
+              77.1283038,
+              28.6350413
+            ],
+            [
+              77.1282552,
+              28.6350512
+            ],
+            [
+              77.1278659,
+              28.6343847
+            ],
+            [
+              77.1274492,
+              28.6339148
+            ],
+            [
+              77.120688,
+              28.6259903
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3691013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3691014",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Naraina Indl Area - I",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1410713,
+              28.6363908
+            ],
+            [
+              77.1409072,
+              28.6368155
+            ],
+            [
+              77.1403496,
+              28.6367974
+            ],
+            [
+              77.1381531,
+              28.6369087
+            ],
+            [
+              77.1379063,
+              28.6374266
+            ],
+            [
+              77.1376677,
+              28.6371528
+            ],
+            [
+              77.133089,
+              28.6318995
+            ],
+            [
+              77.133089,
+              28.6317112
+            ],
+            [
+              77.133368,
+              28.6307036
+            ],
+            [
+              77.1335933,
+              28.6294982
+            ],
+            [
+              77.1340439,
+              28.628387
+            ],
+            [
+              77.1345589,
+              28.6267578
+            ],
+            [
+              77.1350202,
+              28.6268425
+            ],
+            [
+              77.1354462,
+              28.6269748
+            ],
+            [
+              77.1357283,
+              28.6271721
+            ],
+            [
+              77.1361146,
+              28.6276147
+            ],
+            [
+              77.137002,
+              28.6291859
+            ],
+            [
+              77.1371601,
+              28.6294658
+            ],
+            [
+              77.1410713,
+              28.6363908
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3691014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3691015",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Naraina Loha Mandi",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1409072,
+              28.6368155
+            ],
+            [
+              77.1407924,
+              28.6373607
+            ],
+            [
+              77.1417665,
+              28.6378671
+            ],
+            [
+              77.1421023,
+              28.6376438
+            ],
+            [
+              77.1451772,
+              28.6415707
+            ],
+            [
+              77.1434392,
+              28.6426347
+            ],
+            [
+              77.1426377,
+              28.6415226
+            ],
+            [
+              77.1419189,
+              28.6409389
+            ],
+            [
+              77.1410252,
+              28.6402713
+            ],
+            [
+              77.1400521,
+              28.6397242
+            ],
+            [
+              77.1381209,
+              28.6376564
+            ],
+            [
+              77.1379063,
+              28.6374266
+            ],
+            [
+              77.1381531,
+              28.6369087
+            ],
+            [
+              77.1403496,
+              28.6367974
+            ],
+            [
+              77.1409072,
+              28.6368155
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3691015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3691016",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "fixme": "Name?",
+        "landuse": "industrial",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.114909,
+              28.6129653
+            ],
+            [
+              77.1139069,
+              28.6137091
+            ],
+            [
+              77.1143205,
+              28.6141612
+            ],
+            [
+              77.1142483,
+              28.6141991
+            ],
+            [
+              77.1143999,
+              28.6143441
+            ],
+            [
+              77.1136255,
+              28.614869
+            ],
+            [
+              77.1140783,
+              28.6153674
+            ],
+            [
+              77.1141641,
+              28.6153392
+            ],
+            [
+              77.1154188,
+              28.6164261
+            ],
+            [
+              77.1157943,
+              28.6161624
+            ],
+            [
+              77.1167814,
+              28.6169817
+            ],
+            [
+              77.1170925,
+              28.6167934
+            ],
+            [
+              77.1151077,
+              28.6144953
+            ],
+            [
+              77.1158694,
+              28.6140715
+            ],
+            [
+              77.1173954,
+              28.6154409
+            ],
+            [
+              77.1193187,
+              28.6166821
+            ],
+            [
+              77.1237176,
+              28.6219641
+            ],
+            [
+              77.1232843,
+              28.6222377
+            ],
+            [
+              77.1195199,
+              28.6246145
+            ],
+            [
+              77.1164987,
+              28.621201
+            ],
+            [
+              77.1107754,
+              28.6169794
+            ],
+            [
+              77.1116099,
+              28.6162746
+            ],
+            [
+              77.1109154,
+              28.6156081
+            ],
+            [
+              77.1113093,
+              28.6153231
+            ],
+            [
+              77.1125505,
+              28.6144251
+            ],
+            [
+              77.111377,
+              28.6130441
+            ],
+            [
+              77.1137352,
+              28.6115868
+            ],
+            [
+              77.1148153,
+              28.6128282
+            ],
+            [
+              77.114909,
+              28.6129653
+            ]
+          ],
+          [
+            [
+              77.1134775,
+              28.6141854
+            ],
+            [
+              77.1138583,
+              28.6144068
+            ],
+            [
+              77.1140246,
+              28.6142749
+            ],
+            [
+              77.1138476,
+              28.6140489
+            ],
+            [
+              77.1137296,
+              28.6139123
+            ],
+            [
+              77.1134775,
+              28.6141854
+            ]
+          ],
+          [
+            [
+              77.1129989,
+              28.6126172
+            ],
+            [
+              77.113375,
+              28.6130543
+            ],
+            [
+              77.113669,
+              28.6128428
+            ],
+            [
+              77.1132288,
+              28.6124536
+            ],
+            [
+              77.1129989,
+              28.6126172
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3691016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3892837",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Tilak Nagar Indl Area",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1044924,
+              28.6407089
+            ],
+            [
+              77.1051039,
+              28.6409557
+            ],
+            [
+              77.105205,
+              28.6407726
+            ],
+            [
+              77.1064185,
+              28.6413162
+            ],
+            [
+              77.1055084,
+              28.6417877
+            ],
+            [
+              77.1053504,
+              28.6419652
+            ],
+            [
+              77.1050344,
+              28.6423313
+            ],
+            [
+              77.1046678,
+              28.642481
+            ],
+            [
+              77.1037928,
+              28.6421328
+            ],
+            [
+              77.1044924,
+              28.6407089
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3892837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291654386",
+        "depot": "bus",
+        "industrial": "depot",
+        "landuse": "industrial",
+        "name": "Delhi Transport Corporation Mayapuri Depot"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1289629,
+              28.6351854
+            ],
+            [
+              77.1307938,
+              28.6340974
+            ],
+            [
+              77.130004,
+              28.6364817
+            ],
+            [
+              77.1291397,
+              28.6354056
+            ],
+            [
+              77.1289629,
+              28.6351854
+            ]
+          ]
+        ]
+      },
+      "id": "way/291654386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1353096687",
+        "industrial": "warehouse",
+        "landuse": "industrial",
+        "name": "Area Depot"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.126245,
+              28.6042316
+            ],
+            [
+              77.1263764,
+              28.6045019
+            ],
+            [
+              77.1264811,
+              28.6047187
+            ],
+            [
+              77.1265858,
+              28.6046798
+            ],
+            [
+              77.1266986,
+              28.6046364
+            ],
+            [
+              77.1268327,
+              28.604905
+            ],
+            [
+              77.1267206,
+              28.6049481
+            ],
+            [
+              77.1266192,
+              28.604988
+            ],
+            [
+              77.1261619,
+              28.6051683
+            ],
+            [
+              77.1260964,
+              28.6051939
+            ],
+            [
+              77.1256286,
+              28.6053769
+            ],
+            [
+              77.1254938,
+              28.6051114
+            ],
+            [
+              77.1253822,
+              28.604887
+            ],
+            [
+              77.1252463,
+              28.604609
+            ],
+            [
+              77.125713,
+              28.6044332
+            ],
+            [
+              77.1257759,
+              28.6044097
+            ],
+            [
+              77.126245,
+              28.6042316
+            ]
+          ]
+        ]
+      },
+      "id": "way/1353096687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1420299077",
+        "industrial": "warehouse",
+        "landuse": "industrial",
+        "name": "Food Corporation of India Mayapuri Depot"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1310337,
+              28.6336606
+            ],
+            [
+              77.1276179,
+              28.6296226
+            ],
+            [
+              77.128431,
+              28.6290969
+            ],
+            [
+              77.1276453,
+              28.6281702
+            ],
+            [
+              77.1285333,
+              28.6275739
+            ],
+            [
+              77.1319583,
+              28.6315532
+            ],
+            [
+              77.1310337,
+              28.6336606
+            ]
+          ]
+        ]
+      },
+      "id": "way/1420299077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1492564763",
+        "depot": "school_bus",
+        "industrial": "depot",
+        "landuse": "industrial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1235043,
+              28.6027337
+            ],
+            [
+              77.1233936,
+              28.6027674
+            ],
+            [
+              77.1230152,
+              28.6019099
+            ],
+            [
+              77.1231152,
+              28.6018586
+            ],
+            [
+              77.1235043,
+              28.6027337
+            ]
+          ]
+        ]
+      },
+      "id": "way/1492564763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1492564764",
+        "depot": "school_bus",
+        "industrial": "depot",
+        "landuse": "industrial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.123377,
+              28.6027746
+            ],
+            [
+              77.1232991,
+              28.6028107
+            ],
+            [
+              77.1229276,
+              28.6019628
+            ],
+            [
+              77.1230016,
+              28.6019259
+            ],
+            [
+              77.123377,
+              28.6027746
+            ]
+          ]
+        ]
+      },
+      "id": "way/1492564764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814771708",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3682213,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Kirti Nagar Indl Area",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1466655,
+          28.6507381
+        ]
+      },
+      "id": "node/2814771708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814771712",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3682210,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Ware Housing Scheme Block 1",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1335463,
+          28.6362336
+        ]
+      },
+      "id": "node/2814771712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814771713",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3682209,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Ware Housing Scheme Block 2",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1384368,
+          28.6421808
+        ]
+      },
+      "id": "node/2814771713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814771714",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3682215,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Ware Housing Scheme Furniture Block",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1418078,
+          28.6457969
+        ]
+      },
+      "id": "node/2814771714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822308914",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3691013,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Mayapuri Industrial Area 1",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1257627,
+          28.6285822
+        ]
+      },
+      "id": "node/2822308914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822308916",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3691014,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Naraina Indl Area - I",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1370662,
+          28.6321053
+        ]
+      },
+      "id": "node/2822308916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822308917",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3691012,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Naraina Indl Area - II",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1459826,
+          28.644371
+        ]
+      },
+      "id": "node/2822308917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822308918",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3691015,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Naraina Loha Mandi",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1415181,
+          28.6397381
+        ]
+      },
+      "id": "node/2822308918"
+    }
+  ]
+}

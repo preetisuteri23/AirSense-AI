@@ -1,0 +1,7 @@
+{
+    "model": "XGBoost AQI Forecasting Model",
+    "prediction_count": 182,
+    "average_predicted_AQI": 181.68923950195312,
+    "highest_predicted_AQI": 482.8581848144531,
+    "lowest_predicted_AQI": 74.94586944580078
+}

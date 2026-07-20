@@ -1,0 +1,17 @@
+streamlit
+streamlit-folium
+folium
+geopandas
+pandas
+numpy
+plotly
+pyarrow
+branca
+shapely
+fiona
+pyproj
+pillow
+joblib
+scikit-learn
+xgboost
+GitPython

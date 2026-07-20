@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-12T08:36:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139071683",
+        "landuse": "industrial",
+        "name": "Pragati-I Combined Cycle Gas Power Station",
+        "operator": "Pragati Power Corporation Limited",
+        "plant:method": "combustion",
+        "plant:output:electricity": "330 MW",
+        "plant:source": "gas",
+        "plant:type": "combined_cycle",
+        "power": "plant",
+        "source": "http://ipgcl-ppcl.gov.in/powerstations.htm",
+        "wikidata": "Q7237615"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2541211,
+              28.6196589
+            ],
+            [
+              77.2540375,
+              28.6197467
+            ],
+            [
+              77.2534561,
+              28.6197697
+            ],
+            [
+              77.2533998,
+              28.619586
+            ],
+            [
+              77.2519871,
+              28.6197958
+            ],
+            [
+              77.2517334,
+              28.6188573
+            ],
+            [
+              77.2511261,
+              28.6178526
+            ],
+            [
+              77.2514181,
+              28.6154023
+            ],
+            [
+              77.2507524,
+              28.6152588
+            ],
+            [
+              77.2511535,
+              28.6137336
+            ],
+            [
+              77.253887,
+              28.6142484
+            ],
+            [
+              77.2535732,
+              28.6161622
+            ],
+            [
+              77.254143,
+              28.6182718
+            ],
+            [
+              77.2541211,
+              28.6196589
+            ]
+          ]
+        ]
+      },
+      "id": "way/139071683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139071685",
+        "landuse": "industrial",
+        "name": "Indraprastha Gas Turbine Power Station",
+        "operator": "Indraprastha Power Generation Company Limited",
+        "plant:method": "combustion",
+        "plant:output:electricity": "270 MW",
+        "plant:source": "gas",
+        "plant:type": "combined_cycle",
+        "power": "plant",
+        "source": "http://ipgcl-ppcl.gov.in/powerstations.htm",
+        "wikidata": "Q5973021"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2490657,
+              28.6203115
+            ],
+            [
+              77.2498291,
+              28.6178651
+            ],
+            [
+              77.2502138,
+              28.6179589
+            ],
+            [
+              77.2503559,
+              28.617665
+            ],
+            [
+              77.2506103,
+              28.6179473
+            ],
+            [
+              77.2509347,
+              28.6183358
+            ],
+            [
+              77.251266,
+              28.6192367
+            ],
+            [
+              77.2513667,
+              28.6197343
+            ],
+            [
+              77.2513557,
+              28.6200438
+            ],
+            [
+              77.2492309,
+              28.6204045
+            ],
+            [
+              77.2490657,
+              28.6203115
+            ]
+          ]
+        ]
+      },
+      "id": "way/139071685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139071814",
+        "landuse": "industrial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2485953,
+              28.6210074
+            ],
+            [
+              77.2515657,
+              28.6204965
+            ],
+            [
+              77.2521486,
+              28.6203766
+            ],
+            [
+              77.2521995,
+              28.6212631
+            ],
+            [
+              77.2513423,
+              28.6249822
+            ],
+            [
+              77.2514023,
+              28.6257196
+            ],
+            [
+              77.2518414,
+              28.627835
+            ],
+            [
+              77.250806,
+              28.6278201
+            ],
+            [
+              77.2501592,
+              28.6272603
+            ],
+            [
+              77.2490658,
+              28.627216
+            ],
+            [
+              77.2481752,
+              28.6268294
+            ],
+            [
+              77.2474538,
+              28.6261887
+            ],
+            [
+              77.2481836,
+              28.6238199
+            ],
+            [
+              77.2478102,
+              28.6236783
+            ],
+            [
+              77.2485953,
+              28.6210074
+            ]
+          ]
+        ]
+      },
+      "id": "way/139071814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464283160",
+        "disused:power": "plant",
+        "landuse": "industrial",
+        "name": "Rajghat Thermal Power Station",
+        "name:hi": "राजघाट ताप विद्युत केंद्र",
+        "operator": "Indraprastha Power Generation Company Limited",
+        "plant:method": "combustion",
+        "plant:source": "coal",
+        "wikidata": "Q7286122",
+        "wikipedia": "en:Rajghat Power Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2571219,
+              28.6389901
+            ],
+            [
+              77.2560981,
+              28.6394325
+            ],
+            [
+              77.2560498,
+              28.6392818
+            ],
+            [
+              77.255449,
+              28.6394231
+            ],
+            [
+              77.254006,
+              28.6400069
+            ],
+            [
+              77.2538514,
+              28.6400228
+            ],
+            [
+              77.2536354,
+              28.6386238
+            ],
+            [
+              77.2530403,
+              28.6386849
+            ],
+            [
+              77.252832,
+              28.6371616
+            ],
+            [
+              77.2529477,
+              28.6364608
+            ],
+            [
+              77.2541974,
+              28.6356178
+            ],
+            [
+              77.2555296,
+              28.6350843
+            ],
+            [
+              77.2558607,
+              28.6352914
+            ],
+            [
+              77.2570903,
+              28.6388373
+            ],
+            [
+              77.2571219,
+              28.6389901
+            ]
+          ]
+        ]
+      },
+      "id": "way/464283160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003041200",
+        "description": "25850",
+        "landuse": "industrial",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "plant:type": "solar_photovoltaic_panel",
+        "power": "plant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2495347,
+              28.6255568
+            ],
+            [
+              77.2498941,
+              28.6242572
+            ],
+            [
+              77.2504306,
+              28.6230941
+            ],
+            [
+              77.2501945,
+              28.6228257
+            ],
+            [
+              77.249819,
+              28.6226421
+            ],
+            [
+              77.2494784,
+              28.621891
+            ],
+            [
+              77.2494275,
+              28.6215426
+            ],
+            [
+              77.2500497,
+              28.6215261
+            ],
+            [
+              77.2505727,
+              28.6215167
+            ],
+            [
+              77.2516256,
+              28.6215661
+            ],
+            [
+              77.2515115,
+              28.6219723
+            ],
+            [
+              77.2513519,
+              28.6222736
+            ],
+            [
+              77.250967,
+              28.6225903
+            ],
+            [
+              77.2512245,
+              28.6231
+            ],
+            [
+              77.2510556,
+              28.6241583
+            ],
+            [
+              77.2509187,
+              28.6243655
+            ],
+            [
+              77.2508814,
+              28.6248706
+            ],
+            [
+              77.2507954,
+              28.6252366
+            ],
+            [
+              77.2506505,
+              28.6255898
+            ],
+            [
+              77.2495347,
+              28.6255568
+            ]
+          ]
+        ]
+      },
+      "id": "way/1003041200"
+    }
+  ]
+}

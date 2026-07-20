@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-12T08:49:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3691014",
+        "admin_level": "10",
+        "boundary": "administrative",
+        "landuse": "industrial",
+        "name": "Naraina Indl Area - I",
+        "type": "boundary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1410713,
+              28.6363908
+            ],
+            [
+              77.1409072,
+              28.6368155
+            ],
+            [
+              77.1403496,
+              28.6367974
+            ],
+            [
+              77.1381531,
+              28.6369087
+            ],
+            [
+              77.1379063,
+              28.6374266
+            ],
+            [
+              77.1376677,
+              28.6371528
+            ],
+            [
+              77.133089,
+              28.6318995
+            ],
+            [
+              77.133089,
+              28.6317112
+            ],
+            [
+              77.133368,
+              28.6307036
+            ],
+            [
+              77.1335933,
+              28.6294982
+            ],
+            [
+              77.1340439,
+              28.628387
+            ],
+            [
+              77.1345589,
+              28.6267578
+            ],
+            [
+              77.1350202,
+              28.6268425
+            ],
+            [
+              77.1354462,
+              28.6269748
+            ],
+            [
+              77.1357283,
+              28.6271721
+            ],
+            [
+              77.1361146,
+              28.6276147
+            ],
+            [
+              77.137002,
+              28.6291859
+            ],
+            [
+              77.1371601,
+              28.6294658
+            ],
+            [
+              77.1410713,
+              28.6363908
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3691014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822308916",
+        "@relations": [
+          {
+            "role": "label",
+            "rel": 3691014,
+            "reltags": {
+              "admin_level": "10",
+              "boundary": "administrative",
+              "landuse": "industrial",
+              "name": "Naraina Indl Area - I",
+              "type": "boundary"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1370662,
+          28.6321053
+        ]
+      },
+      "id": "node/2822308916"
+    }
+  ]
+}
