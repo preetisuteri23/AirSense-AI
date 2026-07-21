@@ -1,0 +1,291 @@
+Ward_Name,Ward_No,Dominant_Source,Confidence
+DELHI CANTT CHARGE 1,CANT_1,Traffic Emission,High
+DELHI CANTT CHARGE 2,CANT_2,Traffic Emission,High
+DELHI CANTT CHARGE 4,CANT_4,Traffic Emission,High
+DELHI CANTT CHARGE 5,CANT_5,Traffic Emission,High
+DELHI CANTT CHARGE 6,CANT_6,Traffic Emission,High
+DELHI CANTT CHARGE 7,CANT_7,Traffic Emission,High
+DELHI CANTT CHARGE 8,CANT_8,Traffic Emission,High
+DELHI CANTT CHARGE 3,CANT_3,Traffic Emission,High
+NDMC CHARGE 1,NDMC_1,Traffic Emission,High
+NDMC CHARGE 2,NDMC_2,Traffic Emission,High
+NDMC CHARGE 3,NDMC_3,Traffic Emission,High
+NDMC CHARGE 4,NDMC_4,Traffic Emission,High
+NDMC CHARGE 5,NDMC_5,Traffic Emission,High
+NDMC CHARGE 7,NDMC_7,Traffic Emission,High
+NDMC CHARGE 8,NDMC_8,Traffic Emission,High
+NDMC CHARGE 9,NDMC_9,Traffic Emission,High
+NDMC CHARGE 6,NDMC_6,Traffic Emission,High
+CHANDNI CHOWK,80,Unknown,No Data
+MINTO ROAD,81,Unknown,No Data
+KUCHA PANDIT,82,Unknown,No Data
+BAZAR SITARAM,83,Unknown,No Data
+IDGAH ROAD,85,Unknown,No Data
+KHYALA,108,Unknown,No Data
+JANAK PURI NORTH,109,Unknown,No Data
+MUKHERJEE NAGAR,11,Unknown,No Data
+JANAK PURI WEST,117,Unknown,No Data
+JANAK PURI SOUTH,118,Unknown,No Data
+MILAP NAGAR,119,Unknown,No Data
+SITA PURI,120,Unknown,No Data
+CHHAWLA,133,Unknown,No Data
+NANGLI SAKRAVATI,134,Construction Activity,High
+KAKRAULA,135,Construction Activity,High
+KHERA,140,Unknown,No Data
+DILSHAD GARDEN,241,Unknown,No Data
+NEW SEEMA PURI,242,Unknown,No Data
+NAND NAGRI,243,Unknown,No Data
+SUNDER NAGARI,244,Unknown,No Data
+DURGA PURI,245,Unknown,No Data
+ASHOK NAGAR,246,Unknown,No Data
+RAM NAGAR,247,Unknown,No Data
+WELCOME COLONY,248,Unknown,No Data
+CHAUHAN BANGER,249,Unknown,No Data
+ZAFFRABAD,250,Unknown,No Data
+MAUJPUR,252,Unknown,No Data
+GHONDA,255,Unknown,No Data
+YAMUNA VIHAR,256,Unknown,No Data
+SUBHASH MOHALLA,257,Unknown,No Data
+KARDAM PURI,258,Unknown,No Data
+JANTA COLONY,259,Unknown,No Data
+BABAR PUR,260,Unknown,No Data
+JIWANPUR,261,Unknown,No Data
+GOKALPUR,262,Unknown,No Data
+SABOLI,263,Unknown,No Data
+HARSH VIHAR,264,Unknown,No Data
+SHIV VIHAR,265,Unknown,No Data
+KARAWAL NAGAR EAST,266,Unknown,No Data
+MUSTAFABAD,268,Unknown,No Data
+KHAJOORI KHAS,269,Unknown,No Data
+KARAWAL NAGAR WEST,271,Unknown,No Data
+SONIA VIHAR,272,Unknown,No Data
+NIZAMUDDIN,154,Traffic Emission,High
+BHOGAL,156,Construction Activity,High
+KASTURBA NAGAR,157,Construction Activity,Medium
+AMAR COLONY,160,Unknown,No Data
+MALVIYA NAGAR,161,Traffic Emission,High
+HAUZ RANI,162,Unknown,No Data
+ANDREWSGANJ,159,Unknown,No Data
+VASANT VIHAR,165,Traffic Emission,High
+MUNIRKA,166,Traffic Emission,High
+NANAK PURA,168,Traffic Emission,High
+VASANTKUNJ,171,Traffic Emission,High
+DAKSHINPURI EXT.,180,Industrial Pollution,High
+KHANPUR,181,Unknown,No Data
+AMBEDKAR NAGAR,182,Unknown,No Data
+MADANGIR,183,Unknown,No Data
+PUSHP VIHAR,184,Unknown,No Data
+TUGHLAKABAD EXTN,185,Unknown,No Data
+SANGAM VIHAR CENTRAL,187,Industrial Pollution,High
+SANGAM VIHAR EAST,188,Unknown,No Data
+CHIRAG DELHI,189,Unknown,No Data
+CHITRANJAN PARK,190,Unknown,No Data
+SHAPUR JAT,191,Unknown,No Data
+GREATER KAILASH-I,192,Construction Activity,High
+SRI NIWASPURI,193,Industrial Pollution,High
+EAST OF KAILASH,194,Unknown,No Data
+GOVIND PURI,195,Unknown,No Data
+KALKAJI,196,Construction Activity,High
+TUGHLAKABAD,197,Industrial Pollution,High
+PUL PEHLAD,198,Industrial Pollution,High
+TEKHAND,199,Industrial Pollution,High
+HARKESH NAGAR,200,Industrial Pollution,High
+JAITPUR,201,Unknown,No Data
+MEETHEYPUR,202,Unknown,No Data
+BADAR PUR,203,Unknown,No Data
+MOLARBAND,204,Unknown,No Data
+OKHLA,206,Industrial Pollution,Medium
+TURKMAN GATE,84,Unknown,No Data
+BALLIMARAN,86,Unknown,No Data
+RAM NAGAR,87,Unknown,No Data
+QASABPURA,88,Construction Activity,High
+PAHAR GANJ,89,Traffic Emission,High
+SADH NAGAR,146,Unknown,No Data
+PUSA,150,Traffic Emission,High
+INDER PURI,151,Traffic Emission,High
+NARAINA,152,Traffic Emission,High
+DEOLI,173,Unknown,No Data
+CHHATARPUR,174,Traffic Emission,High
+AYA NAGAR,175,Unknown,No Data
+BHATI,176,Unknown,No Data
+MADANPUR KHADAR,207,Unknown,No Data
+SARITA VIHAR,208,Industrial Pollution,Medium
+GHONDLI,231,Unknown,No Data
+ANARKALI,232,Unknown,No Data
+GANDHI NAGAR,234,Unknown,No Data
+AZAD NAGAR,235,Unknown,No Data
+RAGHUBAR PURA,236,Unknown,No Data
+SHAHDARA,237,Unknown,No Data
+JHILMIL,238,Unknown,No Data
+VIVEK VIHAR,239,Unknown,No Data
+DILSHAD COLONY,240,Unknown,No Data
+PUNJABI BAGH,103,Unknown,No Data
+NEW RANJIT NAGAR,96,Unknown,No Data
+KIRTI NAGAR,97,Industrial Pollution,High
+MANSAROWER GARDEN,98,Traffic Emission,High
+HASTSAL,122,Unknown,No Data
+SANGAM PARK,71,Unknown,No Data
+MODEL TOWN,72,Unknown,No Data
+KAMLA NAGAR,69,Unknown,No Data
+INDER LOK COLONY,74,Unknown,No Data
+KISHAN GANJ,75,Unknown,No Data
+DEPUTY GANJ,76,Unknown,No Data
+KASHMERE GATE,77,Unknown,No Data
+MAJNU KA TILA,78,Unknown,No Data
+JAMA MASJID,79,Unknown,No Data
+TILAK NAGAR,114,Unknown,No Data
+MAJOR BHUPINDAR SINGH NAGAR,115,Industrial Pollution,High
+VIKASPURI EAST,116,Unknown,No Data
+MOHAN GARDEN,125,Unknown,No Data
+NAWADA,126,Unknown,No Data
+UTTAM NAGAR,127,Unknown,No Data
+BINDAPUR,128,Unknown,No Data
+DABRI,129,Traffic Emission,High
+MATIALA,136,Construction Activity,High
+ROSHANPURA,137,Industrial Pollution,High
+MAYUR VIHAR PHASE-I,209,Unknown,No Data
+ROHINI,21,Unknown,No Data
+DALLOPURA,210,Unknown,No Data
+TRILOK PURI,211,Unknown,No Data
+NEW ASHOK NAGAR,212,Unknown,No Data
+KALYAN PURI,213,Unknown,No Data
+KHICHRIPUR,214,Unknown,No Data
+KONDLI,215,Unknown,No Data
+GHAROLI,216,Unknown,No Data
+VINOD NAGAR,217,Industrial Pollution,Medium
+ASHOK VIHAR,68,Unknown,No Data
+WAJIRPUR,67,Unknown,No Data
+SAWAN PARK,66,Unknown,No Data
+NIMRI COLONY,65,Unknown,No Data
+SHAKUR PUR,64,Unknown,No Data
+KOHAT ENCLAVE,63,Unknown,No Data
+RAMPURA,62,Unknown,No Data
+TRI NAGAR,61,Unknown,No Data
+SARASWATI VIHAR,60,Unknown,No Data
+RANI BAGH,59,Unknown,No Data
+PASCHIM VIHAR NORTH,58,Unknown,No Data
+PASCHIM VIHAR SOUTH,57,Unknown,No Data
+SHALIMAR BAGH SOUTH,56,Unknown,No Data
+SHALIMAR BAGH NORTH,55,Unknown,No Data
+PITAMPUR NORTH,54,Unknown,No Data
+PITAMPURA SOUTH,53,Unknown,No Data
+NAHARPUR,52,Unknown,No Data
+ROHINI EAST,51,Unknown,No Data
+ROHINI CENTRAL,50,Unknown,No Data
+MANGOLPURI  WEST,48,Unknown,No Data
+MANGOLPURI  EAST,46,Unknown,No Data
+ROHINI SOUTH,45,Unknown,No Data
+QUAMMRUDDIN NAGAR,44,Industrial Pollution,High
+NANGLOI EAST,43,Unknown,No Data
+PERAGHARHI,42,Unknown,No Data
+GURU HARKISHAN NAGAR,41,Unknown,No Data
+SULTANPURI  SOUTH,40,Unknown,No Data
+SULTANPURI  EAST,37,Unknown,No Data
+KIRARI SULEMAN NAGAR,35,Unknown,No Data
+KARALA,29,Unknown,No Data
+BEGUMPUR,27,Unknown,No Data
+POOTH KALAN,25,Unknown,No Data
+VIJAY VIHAR,24,Unknown,No Data
+GEETA COLONY,230,Unknown,No Data
+KRISHNA  NAGAR,229,Unknown,No Data
+PREET VIHAR,228,Unknown,No Data
+I.P EXTENTION,227,Unknown,No Data
+ANAND VIHAR,225,Unknown,No Data
+None,None,Industrial Pollution,High
+SHAKARPUR,223,Industrial Pollution,Medium
+LAXMI NAGAR,222,Unknown,No Data
+RITHALA,22,Unknown,No Data
+MAYUR VIHAR PHASE II,219,Unknown,No Data
+MANDAWALI,218,Unknown,No Data
+KARAM PURA,100,Industrial Pollution,High
+MAHAVIR ENCLAVE,147,Unknown,No Data
+SAGARPUR,131,Traffic Emission,High
+SAGARPUR WEST,132,Traffic Emission,High
+MUNDAKA,30,Unknown,No Data
+EAST PATEL NAGAR,95,Unknown,No Data
+WEST PATEL NAGAR,94,Industrial Pollution,High
+DEV NAGAR,92,Unknown,No Data
+KAROL BAGH,91,Construction Activity,High
+MODEL BASTI,90,Traffic Emission,High
+RANA PRATAP BAGH,70,Unknown,No Data
+BAKHTAWAR PUR,4,Unknown,No Data
+ALIPUR,3,Unknown,No Data
+SAHIBABAD DAULAT PUR,26,Unknown,No Data
+BANKNER,2,Unknown,No Data
+MALKAGANJ,9,Unknown,No Data
+JHARODA,8,Unknown,No Data
+MUKUND PUR,6,Unknown,No Data
+BAWANA,28,Unknown,No Data
+BHALSWA,19,Unknown,No Data
+SAMAYPUR BADLI,17,Unknown,No Data
+JAHANGIRPURI-I,16,Unknown,No Data
+SARAI PIPAL THALA,15,Unknown,No Data
+MAHIPALPUR,144,Traffic Emission,High
+KAPASHERA,143,Traffic Emission,High
+BIJWASAN,141,Construction Activity,Low
+ADARASH  NAGAR,14,Unknown,No Data
+DHIR PUR,13,Unknown,No Data
+G.T.B. NAGAR,12,Unknown,No Data
+TIMAR PUR,10,Unknown,No Data
+RAJA GARDEN,101,Industrial Pollution,High
+RAGHUBIR NAGAR,102,Unknown,No Data
+RAJOURI GARDEN,105,Unknown,No Data
+NANGAL RAYA,110,Traffic Emission,High
+HARI NAGAR,111,Traffic Emission,High
+SUBHASH NAGAR,112,Traffic Emission,High
+MADHU VIHAR,148,Unknown,No Data
+BUDH VIHAR,23,Unknown,No Data
+NANGLOI JAT WEST,31,Unknown,No Data
+NITHARI,34,Unknown,No Data
+SULTANPUR MAJRA,39,Unknown,No Data
+ROHINI NORTH,49,Unknown,No Data
+LIBAS PUR,18,Unknown,No Data
+BRAHAM PURI,254,Unknown,No Data
+DICHAON KALAN,139,Unknown,No Data
+MOTI NAGAR,99,Unknown,No Data
+MANGOLPURI,47,Unknown,No Data
+LAJPAT NAGAR,155,Construction Activity,High
+PALAM,145,Traffic Emission,High
+KISHANGARH,172,Traffic Emission,High
+VISHWASH NAGAR,226,Unknown,No Data
+MADIPUR,104,Unknown,No Data
+RAJENDER NAGAR,149,Traffic Emission,High
+R. K. PURAM,167,Traffic Emission,High
+SAFDARJANG ENCLAVE,163,Traffic Emission,High
+HAUZ KHAS,164,Unknown,No Data
+KOTLA MUBARAKPUR,158,Unknown,No Data
+MANGLAPURI,130,Unknown,No Data
+MANGOL PURI  NORTH,38,Unknown,No Data
+TAGORE GARDEN,106,Industrial Pollution,High
+LADOSARAI,169,Unknown,No Data
+NARELA,1,Unknown,No Data
+BHALASWA JAHAGIR PUR,5,Unknown,No Data
+BURARI,7,Unknown,No Data
+PATPARGANJ,220,Unknown,No Data
+PANDAV NAGAR,224,Industrial Pollution,High
+KISHAN KUNJ,221,Unknown,No Data
+DHARAMPURA,233,Unknown,No Data
+NEW USMANPUR,251,Unknown,No Data
+BHAJANPURA,253,Unknown,No Data
+NEHRU VIHAR,267,Unknown,No Data
+SAID UL AJAIB,177,Unknown,No Data
+SANGAM VIHAR,178,Unknown,No Data
+MEHRAULI,170,Unknown,No Data
+SANGAM VIHAR WEST,186,Unknown,No Data
+TIGRI,179,Unknown,No Data
+ZAKIR NAGAR,205,Industrial Pollution,High
+NAJAFGARH,138,Unknown,No Data
+JAHANGIR PURI -II,20,Unknown,No Data
+KUNWAR SINGH NAGAR,121,Unknown,No Data
+VIKAS NAGAR,124,Unknown,No Data
+VIKAS PURI,123,Construction Activity,High
+MAHAVIR NAGAR,113,Unknown,No Data
+DARYAGANJ,153,Industrial Pollution,High
+BALJIT NAGAR,93,Industrial Pollution,High
+NILOTHI,32,Industrial Pollution,High
+PRATAP VIHAR,36,Unknown,No Data
+PREM NAGAR,33,Unknown,No Data
+SHASTRI NAGAR,73,Unknown,No Data
+VISHNU GARDEN,107,Unknown,No Data
+TUKHMIR PUR,270,Unknown,No Data
+RAJ NAGAR,142,Traffic Emission,High
